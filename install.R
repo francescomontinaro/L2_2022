@@ -1,0 +1,8 @@
+install.packages("tidyverse")
+install.packages("rmarkdown")
+install.packages("httr")
+install.packages("shinydashboard")
+install.packages('leaflet')
+install.packages("devtools")
+install.packages("reshape2")
+devtools::install_github("uqrmaie1/admixtools")
